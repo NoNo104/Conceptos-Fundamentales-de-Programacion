@@ -10,7 +10,7 @@ import java.util.Random;
 public class GenerateInfoFiles {
 
     // Listas base para generar datos pseudoaleatorios
-    private static final String[] nombres = { "Carlos", "Ana", "Jhon", "Luisa", "Pedro", "María", "Andrés", "Camila", "Laura", "Felipe" };
+    private static final String[] nombres = {"edwin", "Ana", "Jhon", "Luisa", "Pedro", "María", "Andrés", "Camila", "Laura", "Felipe" };
     private static final String[] apellidos = { "Gómez", "Martínez", "Rodríguez", "Hernández", "López", "Fernández", "Palacios", "Torres", "Ramírez", "Castaño" };
     private static final String[] tiposDocumento = { "CC", "TI", "CE" };
     private static final String[] productosBase = { "Arroz", "Frijoles", "Leche", "Pan", "Huevos", "Azúcar", "Aceite", "Café", "Sal", "Chocolate", "Pollo", "Carne", "Queso", "Pasta", "Yogur", "Mantequilla", "Cereal", "Atún", "Galletas", "Jugo" };
