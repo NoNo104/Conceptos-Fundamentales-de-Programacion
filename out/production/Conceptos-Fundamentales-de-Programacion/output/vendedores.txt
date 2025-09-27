@@ -1,0 +1,10 @@
+TI;3107;María;Rodríguez
+TI;9522;Pedro;Torres
+TI;3759;Jhon;Torres
+TI;5274;Jhon;López
+CC;6650;Felipe;Palacios
+CC;9423;Jhon;Rodríguez
+CC;9836;Ana;Torres
+CC;8299;Jhon;Hernández
+CC;2540;Camila;Torres
+CE;7412;edwin;Hernández

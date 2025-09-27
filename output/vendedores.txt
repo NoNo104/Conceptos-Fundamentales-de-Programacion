@@ -1,0 +1,10 @@
+TI;3552;Laura;López
+CE;7869;Felipe;Castaño
+CC;2215;Camila;Rodríguez
+CC;4121;Laura;Hernández
+CC;1317;Laura;Fernández
+CE;2290;Ana;Rodríguez
+CC;1698;Laura;Castaño
+TI;2955;Laura;Martínez
+TI;6792;Ana;Hernández
+CC;3147;Laura;Torres
