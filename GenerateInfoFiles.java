@@ -7,6 +7,7 @@ import java.util.Random;
 /**
  * Clase GenerateInfoFiles - Genera archivos pseudoaleatorios para la entrega semana 3.
  * Class GenerateInfoFiles - Generates pseudo-random files for week 3 assignment.
+ *
  */
 public class GenerateInfoFiles {
 
