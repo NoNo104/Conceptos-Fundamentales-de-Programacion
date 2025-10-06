@@ -1,0 +1,13 @@
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo del proyecto, aprendimos a generar archivos de texto de forma automática usando Java, sin necesidad de interacción con el usuario. En la clase GenerateInfoFiles se creó un generador de productos escolares y de oficina, cada uno con un nombre, un identificador único y un precio aleatorio entre $1.000 y $10.000 COP. Se utilizó la clase Random para simular datos realistas y se implementó manejo de errores con try-catch para asegurar que el programa respondiera correctamente ante cualquier falla. 
+Esta clase sirvió como base para alimentar el segundo programa, encargado de procesar los datos y generar los reportes solicitados.
+
+2. Posibles aplicaciones profesionales
+
+Este tipo de ejercicios tiene aplicaciones prácticas en el mundo laboral. 
+Saber generar datos de prueba y trabajar con archivos planos es útil en áreas como desarrollo de software, pruebas automatizadas, simulación de sistemas y análisis de información. Además, el manejo de excepciones y la estructuración de clases con responsabilidades claras son habilidades que se aplican en proyectos reales, tanto en backend como en tareas de procesamiento de datos.
+
+3. Dificultades presentadas
+
+Una de las principales dificultades fue lograr que el programa funcionara sin pedir datos al usuario, ya que estamos acostumbrados a usar Scanner para entradas. También hubo que ajustar el formato del archivo para que fuera compatible con el segundo programa, lo que implicó revisar cómo se escribían los datos y cómo se separaban. Aprendimos a manejar errores de escritura y a validar que el archivo se generara correctamente, lo cual fue clave para que el proyecto funcionara de principio a fin.
