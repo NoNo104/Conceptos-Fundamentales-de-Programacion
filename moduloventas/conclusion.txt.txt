@@ -1,0 +1,11 @@
+1. Lo que aprendimos durante el proyecto
+
+Durante el desarrollo de este proyecto, como grupo tuvimos la oportunidad de reforzar varios conceptos que ya habíamos visto en clase y aprender otros nuevos. Nos enfocamos en crear una clase que generara productos escolares de forma automática, sin necesidad de que el usuario ingresara datos. Usamos herramientas como BufferedWriter para escribir en archivos de texto, Random para generar precios aleatorios, y estructuras como try-catch para manejar errores. También entendimos mejor cómo organizar el código y separar las responsabilidades entre clases. Todo esto nos ayudó a tener una base sólida para el segundo programa que se encarga de leer y procesar esos datos.
+
+2. Aplicaciones que esto puede tener en la vida profesional
+
+Lo que hicimos en este proyecto puede aplicarse en muchos escenarios reales. Por ejemplo, generar datos de prueba es algo que se usa mucho en pruebas de software o cuando se necesita simular información en sistemas. Aprender a automatizar tareas sin depender del usuario es útil en empresas donde se manejan grandes volúmenes de datos. Además, trabajar con archivos planos es común en procesos de integración entre sistemas. También nos sirvió para entender cómo usar Git y GitHub, que son herramientas fundamentales para trabajar en equipo en el mundo del desarrollo.
+
+3. Dificultades que tuvimos
+
+Aunque logramos sacar adelante el proyecto, tuvimos varios retos. Al principio nos costó entender cómo hacer que el programa funcionara sin pedir datos al usuario, Eclipse no mostraba los cambios del archivo productos.txt de inmediato, y tuvimos que aprender a refrescar el proyecto.

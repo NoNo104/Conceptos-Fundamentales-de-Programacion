@@ -1,0 +1,10 @@
+P001;Borrador 1;1378,00
+P002;Tijeras 2;9527,00
+P003;Marcador 3;6573,00
+P004;Carpeta 4;6806,00
+P005;Corrector 5;6227,00
+P006;Notas adhesivas 6;6236,00
+P007;Cartuchera 7;8974,00
+P008;Plumones 8;7844,00
+P009;Notas adhesivas 9;1786,00
+P010;Cartuchera 10;7637,00
